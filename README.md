@@ -10,7 +10,7 @@
 
 1. [变量和简单类型](https://github.com/tangming579/python-web/blob/master/note/1-%E5%8F%98%E9%87%8F%E5%92%8C%E7%AE%80%E5%8D%95%E7%B1%BB%E5%9E%8B.md)
 2. [列表操作](https://github.com/tangming579/python-web/blob/master/note/2-%E5%88%97%E8%A1%A8%E6%93%8D%E4%BD%9C.md)
-3. 判断语句
+3. [判断语句](https://github.com/tangming579/python-web/blob/master/note/3-%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5.md)
 4. 字典
 5. 函数
 6. 类
