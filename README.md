@@ -13,7 +13,7 @@
 3. [判断语句](https://github.com/tangming579/python-web/blob/master/note/3-%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5.md)
 4. [字典](https://github.com/tangming579/python-web/blob/master/note/4-%E5%AD%97%E5%85%B8.md)
 5. [函数](https://github.com/tangming579/python-web/blob/master/note/5-%E5%87%BD%E6%95%B0.md)
-6. 类
+6. [类](https://github.com/tangming579/python-web/blob/master/note/6-%E7%B1%BB.md)
 7. 文件和异常
 8. 网络编程
 9. 多线程
