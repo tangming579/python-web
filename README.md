@@ -14,7 +14,7 @@
 4. [字典](https://github.com/tangming579/python-web/blob/master/note/4-%E5%AD%97%E5%85%B8.md)
 5. [函数](https://github.com/tangming579/python-web/blob/master/note/5-%E5%87%BD%E6%95%B0.md)
 6. [类](https://github.com/tangming579/python-web/blob/master/note/6-%E7%B1%BB.md)
-7. 文件和异常
+7. [文件和异常](https://github.com/tangming579/python-web/blob/master/note/7-%E6%96%87%E4%BB%B6%E5%92%8C%E5%BC%82%E5%B8%B8.md)
 8. 网络编程
 9. 多线程
 10. 项目1
