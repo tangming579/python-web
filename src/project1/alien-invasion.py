@@ -6,13 +6,16 @@ def run_game():
 	pygame.init()
 	screen = pygame.display.set_mode((1200,800))
 	pygame.display.set_caption("Alien Invasion")
-	
+	bg_color = (230, 230, 230)
 	#游戏主循环
-	while True:
+	while True:		
 		#监听键盘和鼠标事件
-		for event in pygame.event.get():
-			if(event.type == pygame.QUIT:
+		for even in pygame.event.get():
+			if event.type == QUIT:
+				pygame.quit()
 				sys.exit()
-			pygame.display.flip()
+				
+		screen.fill(bg_color)
+		pygame.display.flip()
 			
 run_game()
