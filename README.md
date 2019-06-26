@@ -4,7 +4,7 @@
   </a>
 </p>
 
-一个Python构建的Web网站
+学习Python的一个总结，开发工具：VS Code
 
 目标：
 
@@ -15,14 +15,14 @@
 5. [函数](https://github.com/tangming579/python-web/blob/master/note/5-%E5%87%BD%E6%95%B0.md)
 6. [类](https://github.com/tangming579/python-web/blob/master/note/6-%E7%B1%BB.md)
 7. [文件和异常](https://github.com/tangming579/python-web/blob/master/note/7-%E6%96%87%E4%BB%B6%E5%92%8C%E5%BC%82%E5%B8%B8.md)
-8. 高级特性
+8. [高级特性](https://github.com/tangming579/python-web/blob/master/note/8-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7.md)
 9. 面向对象编程
 10. 面向对象高级编程
 11. 网络编程
 12. 多线程
 13. 数据库访问
 14. 异步IO
-15. 项目1
+15. [项目1](https://github.com/tangming579/python-web/blob/master/note/%E9%A1%B9%E7%9B%AE1.md)
 16. 项目2
 17. 项目3
 18. Django入门
