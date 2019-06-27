@@ -15,7 +15,7 @@ def run_game():
 	#游戏主循环
 	while True:		
 		#监听键盘和鼠标事件
-		gf.check_events()
+		gf.check_events(ship)
 				
 		gf.update_screen(ai_settings, screen, ship)
 			
