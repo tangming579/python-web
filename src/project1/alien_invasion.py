@@ -17,10 +17,16 @@ def run_game():
 	#游戏主循环
 	while True:		
 		#监听键盘和鼠标事件
-		gf.check_events(ship)
-				
-		gf.update_screen(ai_settings, screen, ship)
+		gf.check_events(ai_settings, screen, ship, bullets)				
+		
 		ship.update()
 		bullets.update()
+
+		for bullet in bullets.copy():
+			if bullet.rect.bottom <=0:
+				bullets.remove(bullet)
+			#print(len(bullets))
+
+		gf.update_screen(ai_settings, screen, ship, bullets)
 			
 run_game()
