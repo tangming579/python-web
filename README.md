@@ -17,7 +17,7 @@
 7. [文件和异常](https://github.com/tangming579/python-web/blob/master/note/7-%E6%96%87%E4%BB%B6%E5%92%8C%E5%BC%82%E5%B8%B8.md)
 8. [高级特性](https://github.com/tangming579/python-web/blob/master/note/8-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7.md)
 9. [面向对象编程](https://github.com/tangming579/python-web/blob/master/note/9-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B.md)
-10. 面向对象高级编程
+10. [面向对象高级编程](https://github.com/tangming579/python-web/blob/master/note/10-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B.md)
 11. 网络编程
 12. 多线程
 13. 数据库访问
